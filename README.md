@@ -1,6 +1,6 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
-
 # Virtual Zarr Cookbook (Kerchunk and VirtualiZarr)
+
+<img src="thumbnail.png" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/kerchunk-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/kerchunk-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/kerchunk-cookbook/main?labpath=notebooks)
@@ -87,7 +87,7 @@ and even change the example programs. The code cells
 have no output at first, until you execute them by pressing
 {kbd}`Shift`\+{kbd}`Enter`. Complete details on how to interact with
 a live Jupyter notebook are described in [Getting Started with
-Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html).
+Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter).
 
 ### Running on Your Own Machine
 
